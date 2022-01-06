@@ -88,6 +88,8 @@
     margin:10px;
     padding:25px 12px;
     border-radius:10px;
+    height:400px;
+    width:250px;
 }
 .card-1{
     background:rgb(25 62 96 / 18%);
@@ -192,9 +194,13 @@
     background: black;
     text-align:center;
 }
-.footer h4{
+.footer h3{
     color:#00BC4E; 
     font-weight: bold;
+    font-style: italic;
+}
+.footer h3 span{
+    color: orange;
 }
 .footer p{
     color:white;
